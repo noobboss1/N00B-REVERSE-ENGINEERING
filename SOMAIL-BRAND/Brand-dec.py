@@ -1,8 +1,8 @@
 # coding: utf-8
-# Decompiled By MUHAMMAD SOMAIL
-# Github : https://github.com/SOMAIL-BRAND
+# Decompiled By Mamun Ahmed Fahim
+# Github : https://github.com/noobboss1
 # uncompyle6 version 
-# Original written By MUHAMMAD SOMAIL
+# Original written By Mamun Ahmed Fahim
 
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
