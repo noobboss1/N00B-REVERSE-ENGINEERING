@@ -1,5 +1,14 @@
-#Open Source Public Cloniing 
-#By Mr-Qureshi
+#COPY_CUTERS MARA KHAW🤣😂🤣
+
+#FILE,PUBLIC,FOLLOWER CLONING
+
+
+#OK  ID SCRIPT 
+
+
+#টুলস কপি করে টপ হয়ে যাও🤣😂
+
+
 #-----------------[ IMPORT-MODULE ]-------------------
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
